@@ -14,7 +14,7 @@
 
 現在はこちらの方法でのみセットアップが可能です(pythonとgit必須)
 
-```bash
+```cmd
 git clone https://github.com/shuntia/utau-basic-license
 cd utau-basic-license
 python replace.py > output.txt
